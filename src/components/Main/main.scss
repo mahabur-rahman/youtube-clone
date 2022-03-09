@@ -1,0 +1,30 @@
+#mainPart {
+    margin-left: 300px;
+    overflow: hidden;
+    padding-top: 4.5rem;
+    padding-bottom: 1.8rem;
+    color: #aaa;
+}
+
+.card {
+    background-color: transparent;
+    img {
+        cursor: pointer;
+    }
+}
+
+.title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.1px;
+}
+
+.name {
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.bottom_text {
+    font-size: 0.9rem;
+    font-weight: 400;
+}
